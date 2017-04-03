@@ -7,3 +7,12 @@
 [submodule "bundle/vdebug"]
 	path = bundle/vdebug
 	url = git@github.com:joonty/vdebug.git
+[submodule "bundle/vim-monokai-soda"]
+	path = bundle/vim-monokai-soda
+	url = git@github.com:dunckr/vim-monokai-soda.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
