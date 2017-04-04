@@ -10,6 +10,9 @@ syntax on
 set number
 set ruler
 set cc=80
+set tabstop=4
+set shiftwidth=4
+set expandtab
 set list
 set listchars=tab:→\ ,extends:›,precedes:‹,nbsp:·,trail:·
 
