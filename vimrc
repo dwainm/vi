@@ -15,7 +15,7 @@ set shiftwidth=4
 set expandtab
 set list
 set listchars=tab:→\ ,extends:›,precedes:‹,nbsp:·,trail:·
-
+set relativenumber
 "Syntastic
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
