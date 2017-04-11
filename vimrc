@@ -32,3 +32,9 @@ map <C-n> :NERDTreeToggle<CR>
 "CommandT
 let mapleader=","
 nmap <leader>f :CommandT
+
+"Normal Mode
+imap jj <Esc>
+
+"Airline
+set laststatus=2
